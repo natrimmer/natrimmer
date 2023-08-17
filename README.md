@@ -11,8 +11,6 @@
     </a>
   </div>
   <img alt = "Stats" src = "https://streak-stats.demolab.com?user=chambored&background=F0EED8">
-  <br>
-  <img alt = "More Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chambored&layout=compact&theme=vision-friendly-dark">
 </div>
     
 <!--
