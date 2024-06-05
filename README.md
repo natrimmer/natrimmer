@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <h1>howdy 👋<h1>
+  <h1>hello 👋<h1>
   <div id = badges>
     <img src="https://komarev.com/ghpvc/?username=chambored&style=flat-square&color=f0eed8" alt=""/>
     <a href = "https://www.linkedin.com/in/nick-trimmer/">
